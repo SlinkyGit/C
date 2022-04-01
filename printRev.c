@@ -1,7 +1,4 @@
 // Nikhil Solanki
-// CS 283
-// H1 Homework
-// Q1
 
 // a C program to print the contents of a text file line-by-line but backwards so that the last line is printed first
 
